@@ -1,0 +1,28 @@
+Note link:
+https://drive.google.com/drive/u/0/folders/1epOKC-xceEjYnJmyHy6QRRnmh3M4OGvj
+  
+
+Sec1: The Learning Problem
+
+Example of machine learning	
+•	Movie rating solution
+•	Learning approach 
+	
+
+Component of machine learning
+•	Formalization
+•	Learning diagram
+
+A simple model
+•	A simple hypothesis set -perceptron
+•	A simple learning algorithm-PLA
+
+
+Type of Learning
+•	Supervised learning
+•	Unsupervised learning
+•	Reinforcement learning
+
+Puzzle
+
+
