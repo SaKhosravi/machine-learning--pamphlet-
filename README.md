@@ -1,7 +1,7 @@
 # Machine Learning Pamphlet
 
 
-###This is a machine learning pamphlet presented in 2021 at Sharif University.
+## This is a machine learning pamphlet presented in 2021 at Sharif University.
 
 Typically, people who learn machine learning fall into two categories:
 

@@ -1,0 +1,38 @@
+
+Note Link:
+https://drive.google.com/drive/u/0/folders/1epOKC-xceEjYnJmyHy6QRRnmh3M4OGvj
+
+
+Linear model
+Real dataset 7
+
+Input representation 8
+•	Illustration of features 12
+•	What PLA does?13
+•	The Pocket algorithm 17
+•	Classification boundary in PLA vs Pocket 19
+
+
+Linear classification 20
+•	Credit again 21
+•	The dataset 24
+•	How to measure error 27
+
+
+Linear Regression 
+•	Illustration of linear regression 30
+•	The expression for in sample error 33
+•	Minimize in sample error 35
+•	The pseudo-inverse 40
+•	The linear regression algorithm44
+•	Linear regression for classification 45
+•	Linear regression boundary 50
+
+
+Non-linear transformation 52
+•	Linear is limited  53
+•	Another example 56
+•	Linear in what?60
+•	Transform the data nonlinear  64	
+
+
