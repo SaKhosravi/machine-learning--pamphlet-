@@ -1,0 +1,29 @@
+Note link:
+https://drive.google.com/drive/u/0/folders/1epOKC-xceEjYnJmyHy6QRRnmh3M4OGvj
+
+sec4: Learning from data-Error and Noise
+
+Nonlinear transformer(cont.)
+	What transform to what 
+
+Error measures
+	The learning diagram
+	Error measures
+	From pointwise to overall 
+	The learning diagram 
+	How to choose error measure 
+	The error measure
+	Thake home lesson 
+	The learning diagram 
+
+
+Noisy target 
+	Target distribution
+	The learning diagram 
+	Distinction between p(Y|x) and p(y)
+
+
+Preamble to the theory 
+	What we know so far 
+	The 2 questions of learning 
+	What the theory will achieve
